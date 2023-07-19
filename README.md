@@ -2,6 +2,8 @@
 
 Video Preview Demo : https://streamable.com/upfjpg
 
+<div style="width: 100%; height: 0px; position: relative; padding-bottom: 56.250%;"><iframe src="https://streamable.com/e/upfjpg?quality=highest" frameborder="0" width="100%" height="100%" allowfullscreen style="width: 100%; height: 100%; position: absolute;"></iframe></div>
+
 Discord Webhook Uploader is a PHP-based file sharing and upload platform that offers advanced features including user registration, login system, and photo gallery functionality, along with seamless integration with Discord webhooks. With this project, you can create a comprehensive file sharing environment within your Discord server, complete with user management and photo browsing capabilities.
 
 This platform provides users with a user-friendly web interface where they can register an account, log in securely, and start uploading and sharing files. The registration system ensures that only authorized users can access and upload files, enhancing security and control within your file sharing community.
