@@ -16,7 +16,7 @@ Key Features:
 - Secure user authentication and access control
 - File upload and sharing functionality
 - Photo gallery for browsing and sharing images
-- Discord webhook integration for automatic notifications
+Discord webhook integration for automatic notifications
 With the Discord Webhook Uploader, you can create a comprehensive file sharing and photo browsing environment within your Discord community. Whether you need to share documents, images, or any other type of file, this platform offers advanced features to streamline collaboration and communication.
 
 Visit our GitHub repository to access the project's source code, documentation, and installation instructions. Start sharing files, managing users, and exploring photo galleries effortlessly with the Discord Webhook Uploader!"
